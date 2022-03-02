@@ -8,6 +8,10 @@ This starts the express server on http://localhost:5000 with the route available
 
 In the client directory, you can run:
 
+### `npm install`
+
+This is to install the dependencies if there are any missing
+
 ### `npm start`
 
 This starts the app on https://localhost:3000 and fetches the json data from the api and displays it within a React component
